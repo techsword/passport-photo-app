@@ -1,0 +1,12 @@
+[project]
+name = "passportphoto"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.5",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.2.1",
+    "streamlit>=1.45.0",
+]
